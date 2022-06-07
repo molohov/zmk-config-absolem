@@ -21,7 +21,7 @@
                 &kp X    &kp F &kp M &kp P &kp B        			&kp MINUS &kp DOT &kp FSLH &kp COMMA &kp Q
                 &kp R    &kp S &kp N &kp T &kp G        			&kp APOS &kp A &kp E &kp I    &kp H
                 &kp W    &kp C &kp L &kp D &kp V        			&kp COLON &kp U &kp O &kp Y    &kp K
-                &mt LGUI DEL &lt 3 BSPC &mt LSFT TAB      	        &mt LSFT ENT &lt 2 SPACE   &kp ESC
+                &mt LGUI DEL &lt 3 BSPC &mt LSHIFT TAB      	    &mt LSHIFT ENT &lt 2 SPACE   &kp ESC
             >;
         };
 
